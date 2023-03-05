@@ -9,7 +9,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ![image failed to load](DB_Scheme.Pewlett_Hackard_Employees_1980to2000.png)
 
 ## Data Engineering
-SQL code to generate all 6 tables is provided in the file name 'schema.sql'
+SQL code to generate all 6 tables is provided in the file name 'Schema.sql'
 
 ## Data Engineering
-SQL code to query the database is provided in the file name 'store_DB_analysis.sql'
+SQL code to query the database is provided in the file name 'Store_DB_Analysis.sql'
