@@ -11,5 +11,5 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ## Data Engineering
 SQL code to generate all 6 tables is provided in the file name 'Schema.sql'
 
-## Data Engineering
+## Data Analysis
 SQL code to query the database is provided in the file name 'Store_DB_Analysis.sql'
